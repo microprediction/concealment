@@ -1,2 +1,2 @@
 # concealment
-privacy preserving
+Tools for privacy preservation in the setting of federated machine learning
